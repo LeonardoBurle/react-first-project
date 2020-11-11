@@ -1,0 +1,20 @@
+1 ° - yarn add eslint -D
+
+2° - yarn eslint --init
+
+    Para configurar o eslint.
+    Depois remove o package-lock e roda um yarn
+
+3° - yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+
+    Faz as mudanças no .eslintrc.js
+    Cria o .prettierrc
+
+4° - yarn add react-router-dom
+
+    FAzer o roteamento no front-end
+
+5° - yarn add styled-components
+
+  Vai mudar a forma que escrevemos css em react e react native.
+  Para criar componentes estilizados
